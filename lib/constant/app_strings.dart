@@ -1,5 +1,5 @@
 class AppStrings {
-  static const String APP_NAME = '瞰视云加速';
+  static const String APP_NAME = 'Nanoport';
   static const String TOKEN = 'X-ACCESS-TOKEN';
   static const String USER_INFO = 'USER_INFO';
   static const String USER_SUBSCRIBE = 'USER_SUBSCRIBE';
